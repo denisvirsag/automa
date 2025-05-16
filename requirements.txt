@@ -1,0 +1,3 @@
+moviepy
+requests
+g4f
